@@ -1,0 +1,60 @@
+
+body {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0;
+    align-items: center;
+    box-sizing: border-box;   
+}
+
+.comment {
+    width: 100%;
+    max-width: 750px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 4%;
+    align-items: center;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+.comment-section {
+    width: 100%;
+    background-color: #FAFAFA;
+    width: 926px;
+    height: 138px;
+    text-align: center;
+    background-image: url(../images/quote_icon.svg);
+    background-repeat: no-repeat;
+    padding: 35px;
+    margin: 0 auto;   
+}
+
+.signature {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 37px;
+    align-items: center;
+    text-align: center;
+}
+
+img {
+    margin: 0 auto;
+    display: block;
+    max-width: 100%;
+    align-items: center;    
+}
+
+.slider-icon {
+    text-align: center;
+    text-decoration: none;
+}
+
+.second-comment {
+    display: none;
+}
+
+.third-comment {
+    display: none;
+}
